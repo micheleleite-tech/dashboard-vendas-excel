@@ -27,7 +27,7 @@ Essa separação facilita a organização e a manutenção do projeto.
 
 ---
 
-## 📊 Indicadores e Visualizações
+## Indicadores e Visualizações
 O dashboard apresenta os seguintes elementos:
 - Total de vendas
 - Vendas por região
